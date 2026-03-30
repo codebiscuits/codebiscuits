@@ -64,7 +64,7 @@ and continuously learning new tools and frameworks.
 ## Currently Working On
 <ul>
   <li>
-    <a href="https://github.com/codebiscuits/spelling-app">Children's Spelling Practice App</a>  
+    <a href="https://github.com/codebiscuits/spelling_app">Children's Spelling Practice App</a>  
   </li>
   <li>Portfolio Website Revamp</li>
   <li>Learning agent building</li>
