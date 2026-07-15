@@ -54,7 +54,7 @@ A Python tool that converts Markdown files into a fully navigable static webrati
 An AI-assisted FastAPI web app with a SQLite backend and Jinja2 templates. I build; my kids use it daily — deployed on a Raspberry Pi over Tailscale.
 
 ### AI Coding Agent: [Repo](https://github.com/codebiscuits/coding_agent)
-A Python AI agent with access to file search and edit tools, built as part otrates tool use and agent architecture.
+A Python AI agent with access to file search and edit tools, built as part of the boot.dev course and demonstrates tool use and agent architecture.
 
 ---
 
